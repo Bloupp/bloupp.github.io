@@ -1,0 +1,11 @@
+*{font-family: "Arial";}
+p{color: blue;}
+h1{font-size: 70px;}
+h2{font-size: small;}
+.italic{font-style: italic;}
+.gras{font-weight: bold;}
+#souligne{text-decoration: underline;}
+.barre{text-decoration: line-through;}
+.gauche{text-align: left;}
+.droite{text-align: right;}
+.centre{text-align: center;}
